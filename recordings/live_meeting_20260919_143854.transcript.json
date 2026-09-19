@@ -1,0 +1,12 @@
+{
+  "source": "Local OpenAI Whisper (High Accuracy)",
+  "full_text": "Hello, hello, hello, hello, hello, hello.",
+  "segments": [
+    {
+      "speaker": "Meeting Speaker",
+      "role": "Participant",
+      "time": "00:00 - 00:07",
+      "text": "Hello, hello, hello, hello, hello, hello."
+    }
+  ]
+}
